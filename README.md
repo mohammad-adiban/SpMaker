@@ -20,3 +20,9 @@ Python >= 3.6<br />
 shapely<br />
 geopandas<br />
 mysql<br />
+
+# Usage
+python main.py
+
+# Sample
+
