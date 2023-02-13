@@ -17,6 +17,6 @@ The API are deployed to Googe cloud service.
 
 # Requisite
 Python >= 3.6<br />
-shapely
-geopandas
-mysql
+shapely<br />
+geopandas<br />
+mysql<br />
