@@ -25,4 +25,6 @@ mysql<br />
 python main.py
 
 # Sample
-
+<p align="center">
+  <img src="https://github.com/mohammad-adiban/SpMaker/blob/main/figs/polygons.png" width="350" title="hover text">
+</p>
