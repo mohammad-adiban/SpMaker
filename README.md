@@ -16,7 +16,7 @@ The API also deals with concurrent updates.
 The API are deployed to Googe cloud service.
 
 # Requisite
-Python >= 3.6\\
-shapely\\
-geopandas\\
+Python >= 3.6<br />
+shapely
+geopandas
 mysql
