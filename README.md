@@ -11,3 +11,12 @@ The API gives meaningful error messages when errors occur.
 
 # Concurrency
 The API also deals with concurrent updates.
+
+# Deployment
+The API are deployed to Googe cloud service.
+
+# Requisite
+Python >= 3.6
+shapely
+geopandas
+mysql
