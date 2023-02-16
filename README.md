@@ -4,7 +4,7 @@ stores these three entities (building limits, height plateaus and split building
 
 # Validation
 The height plateaus should completely cover the building limits. Therefore, inaccuracies in the
-inputs are validated if there are inaccuracies including gaps or overlaps between height plateaus. Also height plataus are double cheked and resized in a case they exeed the building limits.
+inputs are validated if there are inaccuracies including gaps or overlaps between height plateaus. Also, height plataus are double checked and resized in a case they exeed the building limits.
 
 # Error handling
 The API gives meaningful error messages when errors occur.
